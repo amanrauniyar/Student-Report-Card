@@ -1,5 +1,5 @@
 # Student-Report-Card
-It is in C/C++ programming language.
+It is written in C++ programming language.
 
 The objective of the project was to make a grade-tracking program allowing the user to input their student grades, store them in a database, and automatically having the program to calculate each student’s GPA based on the information provided by the user.
 
